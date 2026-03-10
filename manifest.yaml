@@ -2,5 +2,6 @@ id: ua-rakhunok-clean
 name: Український рахунок
 version: "1.0.0"
 invio: ">=1.0.0"
+
 html:
-  path: index.html
+  url: https://raw.githubusercontent.com/Iwillmanage/template/main/index.html
